@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-> This is my new account. I'm moving from the old one at [](github.com/nhathuy07)
+> This is my new account. I'm moving from the old one at github.com/nhathuy07
 
 <!--
 **nhathuy07-ng/nhathuy07-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
